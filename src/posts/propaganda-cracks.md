@@ -5,8 +5,9 @@ date: 2025-01-23
 number: "012"
 ---
 
-Published on [Substack](https://jwokim.substack.com/p/propaganda-cracks-and-pressure-cooker)
+*Published on [Substack](https://jwokim.substack.com/p/propaganda-cracks-and-pressure-cooker) {{ date | date: "%Y-%m-%d" }}*
 
+\
 The pressure is coming to a boil. It’s been building over the past year, as we helplessly watched our government throw money, weapons, and bombs to aid in the genocide of Palestinians. We watched it in real time, thanks to our handheld computer devices and TikTok, silly little TikTok, with its lip-sync dances and microtrends and Shein hauls, but also—bombs dropping on homes, on hospitals, on refugee camps; families clutching one another at a mass grave; a mother tenderly holding her child’s dismembered corpse; but also—a chef cooking meals for the children of the refugee camp, a builder demonstrating how to clear rubble from your home after a bombing, and the poetry of the martyred.
 
 When we begged them to stop, they responded with rubber bullets and tear gas. The media was in lockstep, declared us unruly and irrational; they cared more for the spectacle than the cause. We wrote and called and marched. We sued. We burned ourselves alive. But never mind that, a thick layer of Capital protects Capitol Hill from our noise, provided by the weapons manufacturers tenderly nursing their record profits.

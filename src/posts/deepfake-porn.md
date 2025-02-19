@@ -4,8 +4,10 @@ layout: post.njk
 date: 2024-10-25
 number: "011"
 ---
-Published in [The Diplomat](https://thediplomat.com/2024/10/south-korean-women-have-another-digital-sex-crime-to-worry-about-deepfake-porn/)
 
+*Published in [The Diplomat](https://thediplomat.com/2024/10/south-korean-women-have-another-digital-sex-crime-to-worry-about-deepfake-porn/) {{ date | date: "%Y-%m-%d" }}*
+
+\
 On September 21, 6,000 women sat cross-legged on the bare asphalt in Hyehwa, a major cultural center of Seoul, to speak out against yet another epidemic of digital sex crimes plaguing the country. 
 
 South Korean women have been reeling since local investigations uncovered in August that massive Telegram groups – some with over 220,000 people – were being used to create and distribute sexually explicit deepfakes. Everyday women found themselves the victim of a crime committed by their coworkers, friends, and family members.

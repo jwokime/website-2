@@ -5,7 +5,7 @@ date: 2016-06-14
 number: "001"
 ---
 
-by Jiwon Kim, Published in [VICE Magazine](https://www.vice.com/en/article/doing-nothing-has-become-a-sport-in-south-korea/)
+*Published in [VICE Magazine](https://www.vice.com/en/article/doing-nothing-has-become-a-sport-in-south-korea/) {{ date | date: "%Y-%m-%d" }}*
 
 A few weeks ago, on a Sunday afternoon, about 70 people gathered at Ichon Hangang Park in Seoul, South Korea, to do absolutely nothing. There was not a smartphone in sight, no texting or taking selfies, and no one rushing to get anywhere.
 

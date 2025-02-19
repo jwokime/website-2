@@ -5,8 +5,9 @@ date: 2025-02-04
 number: "013"
 ---
 
-Published on [Substack](https://jwokim.substack.com/p/cant-with-this-orientalism-theres)
+*Published on [Substack](https://jwokim.substack.com/p/cant-with-this-orientalism-theres) {{ date | date: "%Y-%m-%d" }}*
 
+\
 Never have I felt so furious reading something as I did while reading this VICE essay, “There’s Never Been a Better Time to Visit North Korea,” by Tristan Kennedy, a British travel writer. Just listen to this:
 
 > Even so, looking back, I can’t help thinking that I could have chosen a marginally more enlightening aspect of anglo-saxon culture to educate them on than the merits of black pudding in the morning.
@@ -21,7 +22,7 @@ Either way, while I try and find more productive things to write about, here’s
 
 ---
 
-There’s never been a worse time to visit America
+## There’s never been a worse time to visit America
 (ftfy VICE)
 
 The National Mall stretches across the center of Washington D.C., the capital city of the United States of America. All the Important Buildings are interspersed across the green strip—the Capitol Building at the eastern end, the Lincoln Memorial at the west, the White House at the north, and a pale obelisk called the Washington Memorial piercing the sky from the center—all buildings that you’ll recognize, even if you don’t realize it. Most are built in imitation Greco-Roman style, perhaps in the hope of manifesting the greatness of past Western civilizations into the governing structures of the American Empire. The words “liberty” and “freedom” are the hypnotic mantra of the strip, and when in the presence of the glorious portraits of their past leaders, the viewer is urged to forget, for the moment, the inconvenient fact that the country was established over the graves of its native inhabitants, and to preserve the institution of slavery.

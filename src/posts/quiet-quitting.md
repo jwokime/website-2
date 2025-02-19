@@ -5,7 +5,7 @@ date: 2024-05-04
 number: "008"
 ---
 
-Published on [Substack](https://jwokim.substack.com/p/why-we-quiet-quit)
+*Published on [Substack](https://jwokim.substack.com/p/why-we-quiet-quit) {{ date | date: "%Y-%m-%d" }}*
 
 1/ I quit
 

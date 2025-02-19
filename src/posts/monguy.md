@@ -5,7 +5,7 @@ date: 2024-03-07
 number: "007"
 ---
 
-Published on [Substack](https://jwokim.substack.com/p/gran-monguy)
+*Published on [Substack](https://jwokim.substack.com/p/gran-monguy) {{ date | date: "%Y-%m-%d" }}*
 
 Ramón Lamoruth is maybe 5'2" and his brown skin wrinkles along his smile. We first met him outside of José Martí airport, waving a hand-made sign that read RAMON Y ERIC, big block letters written in red marker on a piece of cardboard. When he saw the recognition in our eyes, he threw his arms wide open and he kissed our cheeks like we were long-lost family. Welcome to Cuba, he said. He pointed at the sign in his hand—he was up quite late last night because he wanted to make sure the sign was muy bonito. He broke it in half across his knee and tossed it into a nearby bin. Call me Monguy, he said. He preferred the diminutive. 
 

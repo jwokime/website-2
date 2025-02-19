@@ -3,11 +3,12 @@ title: Covid Panic
 layout: post.njk
 date: 2020-04-10
 number: "002"
+image: /images/covid.jpg
 ---
 
-by Jiwon Kim, published in [the Dissolve](https://thedissolve.kr/)
+<!-- <img src="/images/covid.jpg" alt="Description" width="1000"> -->
 
-Here's a paragraph that talks about some things for the first post.
+*Published in [the Dissolve](https://thedissolve.kr/) {{ date | date: "%Y-%m-%d" }}*
 
 The pandemic was sweeping the globe, but pre-takeoff was the same. Passengers shushed their fussing children as they crowded the aisles, trading seats and cramming baggage into the overhead compartments.
 

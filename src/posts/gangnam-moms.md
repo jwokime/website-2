@@ -5,7 +5,7 @@ date: 2020-11-11
 number: "003"
 ---
 
-by Jiwon Kim, published in [the Dissolve](https://thedissolve.kr/)
+*Published in [the Dissolve](https://thedissolve.kr/) {{ date | date: "%Y-%m-%d" }}*
 
 The 2019 JTBC K-drama Sky Castle took Korean viewers by storm as it followed the cutthroat society of upper-class mothers and their ruthless quest to get their children admitted to Seoul National University Medical School, the epitome of academic success in Korea. The story hit uncomfortably close to home for its Korean audience—and two years later, it still holds the title of the second-highest-rated series in cable TV history.
 
