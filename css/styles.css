@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'helvetica-neue';
+    src: url("/fonts/HelveticaNeue-Roman.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'helvetica-neue';
+    margin: 0 auto;
+    padding: 50px;
+    letter-spacing: .005em;
+}
+
+/* Style navigation links */
+nav {
+    margin-bottom: 1.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    /* cursor: url("./cursors/Red\ White\ Hand\ Pointers\ Cursor.cur"), auto; */
+}
+
+a:hover {
+    color: #ff0000;;
+    /* text-decoration: underline; */
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.post a {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+.post-title {
+    font-size: 4.8em;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.post-number {
+    font-size: 2.4em;
+}
+
+.post-content {
+    display: block;
+    max-width: 1200px;
+    font-size: 2em;
+    padding-top: 1.2em;
+}
+
+.small-text {
+    font-size: 1.2em;
+}
+
+.about {
+    font-size: 4.8em;
+    font-weight: 700;
+    color: #ff0000;
+}
+
+p {
+    margin: 0 auto;
+    padding-bottom: 1.2em;
+    line-height: 1.2em;
+}
