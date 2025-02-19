@@ -69,4 +69,5 @@ a:visited {
 p {
     margin: 0 auto;
     padding-bottom: 1.2em;
+    line-height: 1.2em;
 }
