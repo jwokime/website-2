@@ -52,7 +52,6 @@ a:visited {
 .post-content {
     display: block;
     max-width: 1200px;
-    /* font-family: Garamond; */
     font-size: 2em;
     padding-top: 1.2em;
 }
