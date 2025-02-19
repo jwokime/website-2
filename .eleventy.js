@@ -31,3 +31,12 @@ module.exports = function(eleventyConfig) {
   };
 };
 
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("CNAME"); // Ensures CNAME is copied to _site/
+  return {
+    dir: {
+      input: "src", // Adjust if necessary
+      output: "_site"
+    }
+  };
+};
