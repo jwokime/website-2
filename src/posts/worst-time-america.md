@@ -1,0 +1,50 @@
+---
+title: There's Never Been a Worse Time to Visit America
+layout: post.njk
+date: 2025-02-04
+number: "013"
+---
+
+Published on [Substack](https://jwokim.substack.com/p/cant-with-this-orientalism-theres)
+
+Never have I felt so furious reading something as I did while reading this VICE essay, “There’s Never Been a Better Time to Visit North Korea,” by Tristan Kennedy, a British travel writer. Just listen to this:
+
+> Even so, looking back, I can’t help thinking that I could have chosen a marginally more enlightening aspect of anglo-saxon culture to educate them on than the merits of black pudding in the morning.
+
+Ew. Exhibited here is the commonly patronizing tone of some white British dude. But I guess you can’t expect a leopard to change its spots. Throughout the entire piece, Tristan the Free Thinker is not so interested in any real engagement with North Koreans; he’s more focused on treating it like an amusement park (“It’s like a time capsule, a sort of living, breathing totalitarian theme park. Except that people actually have to live here”) and frustrated at the fact that he’s not allowed to evangelize the enlightened delights of the Western world to the poor, brain-washed North Koreans—if only they knew about black pudding (lmfao) then they would have toppled the regime yesterday! He calls it “Malboros & Blue Jeans”:
+
+> Are you better off going, on the assumption that even the limited interactions you’re allowed with local people might break down barriers? Is there any truth in what could be called the “Marlboros & Blue Jeans” argument: that exposure to heterodox, westernized culture could contribute to a crisis of legitimacy for the regime, as it supposedly did in Eastern Europe?
+
+I wasn’t too sure about uploading this at first because of just how snarky this turned out, and the fact that I’m jabbing at America rather than Britain, where the writer is from—as much as I’m sure there are plenty of bizarre Britishisms to make fun of, I don’t know Britain as well, but I kind of view the Western Colonial nations as interchangeable anyway. Another reason is that I realize that most of what I have on my Substack now is just shitting on America, and I feel like the steaming pile of it sucks here content we got out there is tall enough? Or is that just my algorithm? Idk.
+
+Either way, while I try and find more productive things to write about, here’s a flip on the Orientalist script to see how it fits on the West. Just pretend the speaker is an arrogant travel writer from North Korea.
+
+---
+
+There’s never been a worse time to visit America
+(ftfy VICE)
+
+The National Mall stretches across the center of Washington D.C., the capital city of the United States of America. All the Important Buildings are interspersed across the green strip—the Capitol Building at the eastern end, the Lincoln Memorial at the west, the White House at the north, and a pale obelisk called the Washington Memorial piercing the sky from the center—all buildings that you’ll recognize, even if you don’t realize it. Most are built in imitation Greco-Roman style, perhaps in the hope of manifesting the greatness of past Western civilizations into the governing structures of the American Empire. The words “liberty” and “freedom” are the hypnotic mantra of the strip, and when in the presence of the glorious portraits of their past leaders, the viewer is urged to forget, for the moment, the inconvenient fact that the country was established over the graves of its native inhabitants, and to preserve the institution of slavery.
+
+It’s at the front of one of these that I currently find myself listening to a group of uninquisitive American workers: Not about John Steinbeck, Karl Marx, Aldous Huxley, or any of the literary critics of capitalism, but about tteokbokki.
+
+In my defense, I suspect that opening up a conversation with a bunch of Americans about a pleasure-driven dystopia like in Brave New World where people are too sedated to realize their own subjugation would – at best – get vacant stares. Even so, looking back, I can’t help thinking that I could have chosen a marginally more enlightening aspect of a worker-led society to educate them on than the merits of spicy street food.
+
+It’s just, if you’re asked to explain how your home country differs to America… where do you even start?
+
+The United States of America (USA), as it’s officially known, is famously among the most capitalist societies on earth. Commonly referred to as the “money kingdom”, America is the richest nation on its planet, but it’s usually assumed that most of its wealth is concentrated among a handful of elites while the rest of its 340 million citizens are left impoverished and isolated.
+
+America is the richest nation on this planet.
+America cultivates a culture that preaches indulgence while eroding communal bonds—leaving people with neither time nor place to gather— to create the perfect consumer. Every inch of physical space—billboards, bus stops, taxi cabs, phone screens—is taken up by advertisements, constantly prodding you to consume; hundreds of thousands of its citizens sleep on the streets each night; a single trip to the hospital can render you destitute; and although its natural landscapes are among the most beautiful in the world, the sprawling urban designs and utter lack of public transportation keeps the beauty exclusive to the privileged who can afford a car.
+
+From the point of view of outsiders visiting, what looms largest in the public psyche are the endless wars that the US Empire has pursued around the world. From the Middle East to Asia, Latin America, and Africa, there is hardly a country on this planet that hasn’t been a victim of CIA interference or tasted the terrors of US-made bombs. The story of journalist Julian Assange comes to mind, an Australian citizen who published a series of documents revealing war crimes committed by the US military. He’s been relentlessly hunted down by the US government since, despite their touted ideals of freedom of speech.
+
+All of which makes the idea of US tourism seem like a strange one. Traveling to a place that’s seemingly too far gone up its ass – not to mention dangerous – wouldn’t conform to most people’s idea of a holiday. And then there’s the morality of taking such a trip. Are you better off going, on the assumption that even the limited interactions you’re allowed with local people might break down barriers? Is there any truth in what could be called the “bread and dignity” argument: that exposure to a good life where your basic needs are considered human rights could contribute to a crisis of legitimacy for the regime, as it supposedly did during the digital migration to RedNote? Or, on the other hand, will your presence in the country merely add legitimacy to a cruel, greedy oligarchy?
+
+It’s hard to imagine a more immersive way to spend your first night in the US than attending the Super Bowl. If arriving in the United States doesn’t already cause a level of culture shock, then this is the equivalent of being strapped into a 2,000-volt electric chair, while bald eagles screech the national anthem in your ears.
+
+The Super Bowl involves tens of thousands of screaming fans packed into a colossal, taxpayer-funded stadium, while millions more gather around their televisions for what is, essentially, an extravagant re-enactment of war. Armored men charge at each other over a contested stretch of land, battle strategy is analyzed in slow motion, and each successful strike is met with the deafening roar of the crowd. Fighter jets rip through the sky in formation, the national anthem is sung with the solemnity of a funeral march, and every so often, the game pauses so that military service members can be publicly honored.
+
+And while I had seen clips before, nothing quite prepares you for the sheer scale of sensory overload. It’s a baptism of capitalism—at times, quite literally. Commercials flood the screen, each 30-second ad slot costing more than an entire community’s annual wages. The most-watched event of the year is also a relentless marketplace, where beer brands, fast food chains, and car companies wage their marketing wars for the hearts and wallets of the American public. At halftime, pop stars descend from the sky or emerge from pyrotechnic smoke, offering a bewildering musical interlude before the battle resumes.
+
+But the Super Bowl is about more than just football. It also serves as a crash course in American mythology—or, at least, the version America prefers to tell itself. The ads, the anthems, the tributes, the overwhelming pageantry—it all serves one purpose: to remind the people, in the loudest way possible, that they are living in the greatest country on Earth. Meanwhile, outside the stadium, made-in-USA bombs continue to drop and it goes largely unnoticed by Americans, as their eyes and ears are swallowed by the spectacle.

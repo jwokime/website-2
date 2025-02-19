@@ -1,0 +1,14 @@
+body {
+    font-family: Helvetica;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+/* Style navigation links */
+nav {
+    font-family: Helvetica;
+    padding: 10px;
+    text-align: center;
+}

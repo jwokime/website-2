@@ -1,0 +1,89 @@
+---
+title: Why We Quiet Quit
+layout: post.njk
+date: 2024-05-04
+number: "008"
+---
+
+Published on [Substack](https://jwokim.substack.com/p/why-we-quiet-quit)
+
+1/ I quit
+
+The world was finally waking up from a two-year slumber in the summer of 2022 when Zaid Khan, a 20-something software engineer, posted this video on TikTok:
+
+
+Quiet quitting is quitting the idea of going above and beyond. “You’re still performing your duties, but you're no longer subscribing to the hustle culture mentality that work has to be your life. The reality is it's not — and your worth as a person is not defined by your labor.” It’s the idea that rather than trying find fulfillment from your 9-to-5—which you won’t—you do what you can to maximize your time away from work so that you can find identity and meaning in other areas of life. 
+
+The message struck a chord. As the video made its rounds on our social feeds, the phrase “quiet quitting” became cemented into our vernacular.
+
+To no one’s surprise, bosses were very unhappy to hear about this trend. They whined about how no one wants to work anymore, and even went as far as to call quiet quitting an epidemic worse than Covid-19. Mainstream media coverage wasn’t any better: NPR diluted the phenomenon down to an inane corporate problem and told managers to just have more meetings with their employees. The New Yorker brushed it off as a Gen Z phase, much like the millennial generation’s vision of financial freedom via an automated business run out of Tulum. 
+
+But it seems to me that quiet quitting is emblematic of something bigger than simply a management failure or a generational phase. First, although quiet quitting might be fittingly doomerist, the phenomenon is not just limited to Gen Z. Gen Z currently makes up less than a third of the U.S. workforce, but according to Gallup’s 2022 survey of workers age 18 and older, more than 50% of the U.S. workforce are quiet quitters. Second, quiet quitting is far from the only trend in labor—if anything, quiet quitting is just the white-collar expression of a larger upheaval. In that same summer the quiet quitting TikTok went viral, U.S. workers were walking off their jobs en masse in what’s now been dubbed the Great Resignation. These were workers in hospitality, healthcare, and education—jobs that are in-person and typically the most underpaid, undervalued, and overworked. Around 50.6 million people quit their jobs after being pushed to their physical and psychological limits working through a pandemic, and employers soon found themselves desperately scrambling to fill their vacancies. This dynamic laid the groundwork for the Summer of Strikes in the following year, the highest surge in strike activity that we’ve seen in recent decades. And it wasn’t just the summer: in total, more than 458,900 workers were involved in work-stoppages in 2023, up 280% from the previous year. 
+
+
+In case it’s not clear: we hate it here.
+
+2/ It started with the pandemic
+
+The pandemic was a catalyst. As worker power has steadily declined and economic conditions has worsened for everyone but the 1%, there’s been a sense of malaise and disillusionment that’s been building over the years—and it finally reached a boiling point during the pandemic as economic injustices and institutional incompetence were exacerbated. In the face of the greatest health crisis of our time, politicians continued to fight each other rather than work together to protect their constituents. Inequality worsened as low income households and minority groups struggled with unemployment, homelessness, and food insecurity, all the while billionaires further fattened their already morbidly obese pockets, nearly 88% over the last four years. Now, on the other side of the pandemic, more people are homeless than ever and Jeff Bezos has a yacht for his yacht. 
+
+Then, of course, George Floyd’s murder. The January 6th coup attempt.
+
+With each failed test of competence and principle, what faith we had left in our institutions was shattered. 
+
+It’s difficult to convince people that their employer’s mission to build the best B2B SaaS CRM solution is so imperative when the world is crumbling in on itself. But if there’s anything good that came out of the pandemic, it’s that the stoppage removed us from the daily drone of work life and offered us some distance from which to truly judge our institutions and systems. In addition, the temporarily expanded welfare that was offered in the form of stimulus checks, unemployment benefits, and student loan repayment pauses stimulated the political imagination: things that had once been declared impossible by any neoliberal logic were shown to be possible and once people realized this, they were empowered to demand for more. 
+
+3/ An anti-Protestant work ethic
+
+Based on that line of reasoning, quiet quitting is sometimes simply understood as a desire for work-life balance. Working from home during the pandemic, after all, had all but eradicated work-life balance because neither work nor life ever left the confines of our homes. It’s also true that it particularly resonated among Gen Z who had just suffered through their post-college existential crisis isolated in their childhood bedrooms and had entered the workforce working from home in the blurred limbo of the pandemic. So the message “work is not your life,” although far from groundbreaking, may very well have been the sell that propelled it to virality. 
+
+The thing about quiet quitting, however, is that it’s not just about working less—it’s about caring less. Quiet quitting uniquely challenges the Protestant work ethic, or the “work hard and suffer now for a future reward” thinking that has been a cornerstone of American work culture. According to Max Weber, the social theorist who coined the term, the Protestant ethic is a cultural trait that created the favorable conditions for modern capitalism to flourish as much as it is an ethic of “nose to the grindstone for the workers for the maximum profit of the capitalist" that consigns us, the workers, to an iron cage. So far, any kind of trend surrounding work has been some rebrand of the Protestant work ethic, whether that’s “hustle culture,” “grindset,” or the “work hard, play hard” slogan. Even “self-care,” although on the surface promotes work-life balance akin to quiet quitting, really only refers to a brief period of respite between sprints of hustling. It comes with the expectation that after you rest, you go right back to the grind. These trends tell you new ways to hack your productivity so you can engage better, harder, and faster in the capitalist system because they assume that the Protestant work ethic is a positive, aspirational thing that will result in more future rewards.
+
+It might even have been a reasonable sell when those future rewards could be realized, aka the American Dream, aka the house with the white picket fence. Once upon a time, in the 1950s and 60s, you could save up enough money for a down payment on a single-family home working a few years at a minimum-wage job. Now, buying a home is a far-fetched dream even with a decently paying white-collar job, and because of that, we may look back on those times with some admiration and envy…until we remember that the economic prosperity of those times was largely thanks to World War II, when the demands of waging a violent war boosted productivity; and that it was a society that was more willing to distribute its wealth because segregation and other discriminatory laws ensured that the wealth would stay within the white population and kept away from racial and ethnic minorities. It’s this vision of a Great America that Donald Trump sells to the disillusioned. 
+
+
+We can’t afford homes because the median house price in proportion to the median income has increased nearly five fold since the 1960s.
+
+In fact, some may argue that the promises of payoff haven’t been real since before Industrial Revolution, when the Protestant work ethic was perfected. Elizabeth Anderson, a philosopher at the University of Michigan, explains:
+
+[The] model workers in the 17th century…both had capital and engaged in manual labor. The master craftsman who owned his own shop, even merchant sailors were entitled to a share of the profits of the commercial voyage. The critical issue in the Industrial Revolution is then you get a very sharp split between wage laborers whose only source of income is the wage they get from their employer on the one hand, and capitalists on the other hand, whose entire income comes from profit or interest or some kind of income flow from ownership of an asset.
+
+Whether the American Dream was last true in the 60s or 1600s, it most definitely hasn’t been true in recent memory even as the myth still pervades. So why should we work so hard for workplaces that don’t care about us?
+
+
+4/ Our jobs are bullshit
+
+It’s not just that we don’t want to work hard because we feel cheated out of the rewards that were promised. We don’t want to work hard because our jobs feel unfulfilling and pointless.
+
+Anthropologist David Graeber would tell us that it's more than just a feeling. In 1930, economist John Maynard Keynes predicted that by 2030, technology will have automated away most of our work needed for subsistence and the main concern for humanity will be how to use our leisure time wisely and well. As he predicted, automation seems to have dramatically decreased productive jobs in industry and farm over the last century and yet we still work a grueling 40-hour work week because, according to Graeber, we've made up a universe of pointless jobs to keep people working. He calls this phenomenon “bullshit jobs”—or jobs such as consultants, telemarketers, brand managers, and corporate lawyers that offer no utility or sometimes actively make the world a worse place. They are professionally unsatisfying, spiritually empty, and even the person doing the job can’t really justify the existence of it, but they have to pretend that there’s some reason for it to exist. And unlike jobs such as teachers, doctors, construction workers, or garbage collectors, it would make no real difference if these bullshit jobs were to vanish overnight. And yet these professional, managerial, and administrative jobs make up three-quarters of total employment and seemingly only exist to keep people working and occupy their time. Perhaps by design.
+
+The ruling class has figured out that a happy and productive population with free time on their hands is a mortal danger (think of what started to happen when this even began to be approximated in the '60s). And, on the other hand, the feeling that work is a moral value in itself, and that anyone not willing to submit themselves to some kind of intense work discipline for most of their waking hours deserves nothing, is extraordinarily convenient for them.
+
+— On the Phenomenon of Bullshit Jobs: A Work Rant by David Graeber
+
+Graeber calls it a “profound psychological violence”— How can one even begin to speak of dignity in labor when one secretly feels one’s job should not exist? How can it not create a sense of deep rage and resentment? These are the jobs from which people are quiet quitting from.
+
+When automation does occur, it’s a threat to the workers rather than an emancipatory force under a capitalist system. Automation has long threatened to replace manufacturing and industry jobs, and now knowledge work too with the advent of ChatGPT and similar AI technology. Some economists predict that 47% of U.S. employment is at risk of computerization within the next decade or two. In our daily lives, it’s becoming increasingly common to be greeted by a kiosk or an iPad at a restaurant in the place of a service worker, and here in Brooklyn, there’s a coffee shop that’s entirely run by a robot barista. And yet as American productivity grew by 400% from 1930 to 2000, average leisure time only increased by 3% because automation is nothing more than a cost-reduction strategy for capitalists. Because capitalists own everything including automation technology and our labor, we find ourselves pitted against machines and likely to lose because unlike humans, machines don’t complain, nor do they organize and demand for ridiculous things like more pay or safe working conditions.
+
+5/ What comes after quiet quitting
+
+Don’t get me wrong, I still very much believe that hard work and discipline are important virtues to aspire to. Unfortunately in our society, hard work is only valued when it is useful to the 1% of the population that controls most of the disposable wealth, which is why useful jobs like teachers are paid less than bullshit jobs like corporate lawyers, why stay-at-home moms who raise children and run a household are disdained for “not working,” and why there’s an infinite demand for marketers and sales people but an extremely limited demand for poets and painters and makers of art. 
+
+So if you find yourself in a job that’s useful to no one but the corporate overlords, then I think quiet quitting is a valid way to grant yourself some freedom from this twisted logic of capitalism. We already seem to agree that a lot of our jobs are pretend anyway—and if according to surveys 50% of the workforce are already quiet quitters, there’s a chance that there’s already a tacit quiet quitting agreement in place among your coworkers and even your bosses: 
+
+You can do your job and collect your paycheck for survival, but not agonize over how project management is going to fit into your identity. Instead, you use your newly earned time and mental space to focus on the things that will feed your soul. Personally, I believe food for the human soul tends to be in the realm of exploration (be it of the physical world or knowledge), creation (whether it’s crafting furniture or making music), and connection (whether it’s with fellow humans, animals, a higher spirit, or mother nature).  
+
+Go into the arts. I'm not kidding. The arts are not a way to make a living. They are a very human way of making life more bearable. Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven's sake. Sing in the shower. Dance to the radio. Tell stories. Write a poem to a friend, even a lousy poem. Do it as well as you possibly can. You will get an enormous reward. You will have created something.
+
+- Kurt Vonnegut
+
+But if at the end of a full day of exploring, creating, and connecting you still feel a nagging hollowness in your chest, then you might be missing one last crucial piece: purpose. As modern capitalism has weakened communities and isolated us from one another, we’ve been estranged from a sense of purpose. But more and more people are fighting back against the capitalist system that is at the root of our discontentment, and finding purpose in standing up for one another. We see this in the surge of union activity, and more pertinently, the collective resistance and activism in the Palestine solidarity movement as student protests are erupting on university campuses across the country (even as they are being met with violent suppression). This piece by Joshua P. Hill lives rent free in my mind and I think best captures the hopeful energy of our zeitgeist:
+
+[If] you look around, or even think about what you’re seeing around you today, I bet you feel it. I bet you know somehow that this type of change is in the air. Times are getting tougher in some ways and yet people are responding by throwing themselves into community building, throwing themselves into organizing, into the push for the transformation of society. Sometimes that can be annoying, or disruptive, or difficult, but the result is often beautiful as well, in time. As George Jackson implored, “Discover your humanity and your love in revolution.” Che also talked about how “the true revolutionary is guided by a great feeling of love.” Both of these sentiments hold the same fundamental truth.
+
+
+New Means
+Does Your Life Have Meaning?
+There’s an image stuck in my mind. It’s been lodged there for days. A man is smiling, beaming even. He’s radiant – and he’s getting arrested. On one side is private security, on the other a police officer, and he is being taken away for helping shut down production at an…
+
+In that same essay that Keynes predicts a workless 2030, he envisions that once work and wealth building is a thing of the past, morals will realign where we will once again see avarice as a vice, usury as a misdemeanor, and the love of money as detestable. Quiet quitting alone isn’t going to bring us closer to that world, but if we collectively use our earned time wisely, I have hope that one day we’ll live in that world in which we are artists, scientists, and caretakers first and workers second (or not at all).
