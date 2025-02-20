@@ -4,18 +4,52 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'helvetica-neue-light';
+    src: url("../fonts/HelveticaNeue-Light.otf") format("opentype");
+    font-weight: lighter;
+    font-style: normal;
+}
+
 @font-face {
     font-family: 'spectral-light';
     src: url("../fonts/Spectral-Light.ttf") format("truetype");
     font-weight: lighter;
     font-style: normal;
 }
+
 @font-face {
-    font-family: 'spectral';
-    src: url("../fonts/Spectral-Regular.ttf") format("truetype");
-    font-weight: normal;
+    font-family: 'editorial-light';
+    src: url("../fonts/PPEditorialNew-Ultralight.otf") format("opentype");
+    font-weight: lighter;
     font-style: normal;
 }
+
+@media (max-width: 768px) {
+    img {
+      width: 90%; /* Make images take up more space */
+      max-width: 100%; /* Allow full width */
+    }
+
+    nav {
+        margin-bottom: 1.4em;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .post-title {
+        font-family: 'editorial-light';
+        font-size: 2.4em;
+        font-weight: 700;
+        line-height: 1.2em;
+    }
+    .post-content {
+        display: block;
+        margin-top: 1.4em;
+        font-size: 1.4em;
+    }
+  }
 
 main {
     flex-grow: 1;
@@ -23,21 +57,21 @@ main {
 
 body {
     height: 100%;
-    font-family: 'helvetica-neue';
+    font-family: 'helvetica-neue-light';
+    color: #333333;
     margin: 0 auto;
     padding: 50px;
     letter-spacing: .005em;
 }
 
 nav {
-    font-family: 'helvetica-neue';
-    margin-bottom: 1.5em;
+    margin-bottom: 1.4em;
     font-weight: bold;
     font-size: 1.4em;
 }
 
 a {
-    color: black;
+    color: #333333;
     text-decoration: none;
     /* cursor: url("./cursors/Red\ White\ Hand\ Pointers\ Cursor.cur"), auto; */
 }
@@ -51,19 +85,25 @@ a:visited {
     text-decoration: none;
 }
 
+.post {
+    padding-top: 50px;
+}
+
 .post a {
     color: #ff0000;
     text-decoration: underline;
 }
 
-.post-title {
-    font-size: 4.8em;
-    font-weight: 700;
-    line-height: 1.2em;
+.post-number {
+    font-size: 1.6em;
+    margin-right: 5px;
 }
 
-.post-number {
-    font-size: 2.4em;
+.post-title {
+    font-family: 'editorial-light';
+    font-size: 4.4em;
+    font-weight: 700;
+    line-height: 1.2em;
 }
 
 .post-content {
@@ -72,14 +112,11 @@ a:visited {
     margin-left: 10px;
     margin-top: 1.6em;
     font-size: 1.6em;
-    font-family: 'spectral-light';
-}
-
-.small-text {
-    font-size: 1.2em;
+    /* font-family: 'helvetica-neue'; */
 }
 
 .about {
+    font-family: 'editorial-light';
     font-size: 4.8em;
     font-weight: 700;
     color: #ff0000;
@@ -104,4 +141,7 @@ footer {
     text-align: right;
     font-size: 1.4em;
   }
-  
+
+li {
+    margin-right: 25px;
+}
