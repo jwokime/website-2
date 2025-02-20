@@ -1,5 +1,5 @@
 ---
-title: Hiking with a Guatemalan guerilla
+title: Hiking with a Guatemalan Guerilla
 layout: post.njk
 date: 2024-06-26
 number: "009"

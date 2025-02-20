@@ -3,10 +3,9 @@ title: Covid Panic
 layout: post.njk
 date: 2020-04-10
 number: "002"
-image: /images/covid.jpg
 ---
 
-<!-- <img src="/images/covid.jpg" alt="Description" width="1000"> -->
+![covid](/images/covid.jpg)
 
 *Published in [the Dissolve](https://thedissolve.kr/) {{ date | date: "%Y-%m-%d" }}*
 

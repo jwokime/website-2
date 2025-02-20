@@ -5,11 +5,14 @@ layout: base.njk
 <main class="post">
 <span class="post-title">{{ title }}</span>
 
-{% if image %}
-  <img src="{{ image }}" alt="{{ title }}" width="1000">
-{% endif %}
+<span>
+  {% if image %}
+    <img src="{{ image }}" alt="{{ title }}">
+  {% endif %}
+</span>
 
 <span class="post-content">
   {{ content | safe }}
 </span>
+
 </main>
